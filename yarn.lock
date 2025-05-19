@@ -502,6 +502,11 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/retry/-/retry-0.4.3.tgz#c2b9d2e374ee62c586d3adbea87199b1d7a7a6ba"
   integrity sha512-bV0Tgo9K4hfPCek+aMAn81RppFKv2ySDQeMoSZuvTASywNTnVJCArCZE2FWqpvIatKu7VMRLWlR1EazvVhDyhQ==
 
+"@indaco/svelte-iconoir@^7.11.0":
+  version "7.11.0"
+  resolved "https://registry.yarnpkg.com/@indaco/svelte-iconoir/-/svelte-iconoir-7.11.0.tgz#7b5d4414b3b858146747cecae84f0376dda4be7b"
+  integrity sha512-pixdtVDpxgEaPqRg48L1SsYxtPii6XgrVKbh2FPl/sK8zEHkYc/C8fFBjCkL4Y+ZVDfnrRDDMZsbBLfwLr4CaQ==
+
 "@isaacs/fs-minipass@^4.0.0":
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/@isaacs/fs-minipass/-/fs-minipass-4.0.1.tgz#2d59ae3ab4b38fb4270bfa23d30f8e2e86c7fe32"
@@ -540,6 +545,11 @@
   dependencies:
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
+
+"@lucide/svelte@^0.511.0":
+  version "0.511.0"
+  resolved "https://registry.yarnpkg.com/@lucide/svelte/-/svelte-0.511.0.tgz#943d7c487f157b863570d89ee2de88b69fdc71cb"
+  integrity sha512-aLCSPMUJmHlCuLXzXENXa4Z1NV2mN1iAZAFKk4bEbey+/MdsNlu+/DqwVkgW3Yvj6p8y8Vn5xZ2v9CLmPlA6Vw==
 
 "@modelcontextprotocol/sdk@^1.8.0":
   version "1.11.3"
